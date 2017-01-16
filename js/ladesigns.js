@@ -22,7 +22,7 @@ function closeNav() {
 
 /* Open the sidenav */
 function openNav() {
-    document.getElementById("mySidenav").style.width = "100%";
+    document.getElementById("mySidenav").style.width = "50%";
 }
 
 /* Close/hide the sidenav */
