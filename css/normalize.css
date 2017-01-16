@@ -258,7 +258,6 @@ svg:not(:root) {
    ========================================================================== */
    .fa-ul {
       list-style-type: none;
-      align-items: center;
       position: absolute;
       bottom: 3px;
    }
