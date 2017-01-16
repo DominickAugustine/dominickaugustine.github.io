@@ -215,8 +215,9 @@ svg:not(:root) {
       width: 5%;
       padding: 0;
       margin: 0;
-      background-color: #f0f0f0;
-      
+      background-color: #f1f1f1;
+      left: 0px;
+
   }
   .sidenav a {
       padding: 8px 8px 8px 32px;
