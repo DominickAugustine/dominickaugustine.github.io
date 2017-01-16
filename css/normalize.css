@@ -252,7 +252,7 @@ svg:not(:root) {
 
 /* Font Awesome
    ========================================================================== */
-   fa-ul {
+   .fa-ul {
       padding-left: 5px;
       list-style-type: none;
    }
