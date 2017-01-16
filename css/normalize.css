@@ -248,6 +248,14 @@ svg:not(:root) {
       .sidenav a {font-size: 18px;}
   }
 
+/* Font Awesome
+   ========================================================================== */
+   fa-ul {
+      padding-left: 5px;
+      margin-left: @fa-li-width;
+      list-style-type: none;
+   }
+
 /* Grouping content
    ========================================================================== */
 
