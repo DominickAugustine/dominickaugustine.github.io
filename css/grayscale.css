@@ -124,7 +124,7 @@ a:focus {
   padding: 100px 0;
   text-align: center;
   color: white;
-  background: url(../img/Florida_Home.jpg) no-repeat bottom center scroll;
+  background: url(../img/_Florida_Home.jpg) no-repeat bottom center scroll;
   background-color: #4c4c4c;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -224,19 +224,8 @@ a:focus {
   width: 100%;
   padding: 50px 0;
   color: white;
-  background: url(../img/Kitchen.jpg) no-repeat center center scroll;
+  background: url(../img/_Kitchen.jpg) no-repeat center center scroll;
   background-color: #4c4c4c;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  background-size: cover;
-  -o-background-size: cover;
-}
-.about{
-  width: 100%;
-  padding: 50px 0;
-  color: white;
-  background: url(../img/French.jpg) no-repeat center center scroll;
-  background-color: #808080;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
