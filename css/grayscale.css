@@ -124,12 +124,28 @@ a:focus {
   padding: 100px 0;
   text-align: center;
   color: white;
-  background: url(../img/_Florida_Home.jpg) no-repeat bottom center scroll;
-  background-color: #4c4c4c;
+  background: url(HomeVideo.jpg) no-repeat;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
   -o-background-size: cover;
+}
+video {
+    position: fixed;
+    display: table;
+    top: 50%;
+    left: 50%;
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    z-index: -20;
+    -ms-transform: translateX(-50%) translateY(-50%);
+    -moz-transform: translateX(-50%) translateY(-50%);
+    -webkit-transform: translateX(-50%) translateY(-50%);
+    transform: translateX(-50%) translateY(-50%);
+    background: url(HomeVideo.jpg) no-repeat;
+    object-fit: cover;
 }
 .intro .intro-body {
   display: table-cell;
